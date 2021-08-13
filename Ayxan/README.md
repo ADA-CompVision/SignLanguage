@@ -1,0 +1,3 @@
+# SignLanguage 
+
+## Static Image Recognition
