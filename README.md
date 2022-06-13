@@ -8,7 +8,7 @@ This folder contains the source code of the implemented Telegram bot where datas
 #### Folder 2: Source Codes
 In this folder, there are python codes of recognition algorithm. There are 5 files in this folder:
 
-<b>MediaPipe.ipynb</b> : Jupyter notebook file which is responsible for extracting hand landmarks of frames.
+<b>MediaPipe.ipynb</b> : Jupyter notebook file which is responsible for extracting hand landmarks of frames which is used in training.
 <br>
 <b>model.h5</b> : This is our pre-trained model which recognizes 32 letters of AzSL Alphabet
 <br>
