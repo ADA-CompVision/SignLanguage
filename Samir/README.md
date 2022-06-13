@@ -1,3 +1,0 @@
-# SignLanguage 
-
-## Image Production
