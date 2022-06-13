@@ -1,3 +1,0 @@
-# SignLanguage 
-
-## Dynamic Image Recognition
