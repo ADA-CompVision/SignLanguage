@@ -30,8 +30,8 @@ This main program which takes input from camera, makes predictions, applies Beam
 
 <h2>TeknoFest Azerbaijan 2022</h2>
 <div style="display: flex; justify-content: space-between;">
-  <img src="/images/Team.JPG" height="420" >
-  <img src="/images/Stage.JPG" height="420" >
+  <img src="/images/Team.JPG" height="425" >
+  <img src="/images/Stage.JPG" height="425" >
 </div>
 <br />
 
