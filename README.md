@@ -15,6 +15,9 @@ The Telegram bot called JestDiliBot that used dialogue interface to collect the 
 <h2>Machine Learning Model and its components</h2>
 You can find the final version of the source code for the model under the folder "Source Codes". The recognition algorithm has been developed in Python and you can find the following files in this folder:
 
+<h4>FeatureAnalysis.ipynb</h4> 
+Analysis of various features for the hand gesture recognition.
+
 <h4>MediaPipe.ipynb</h4> 
 Jupyter notebook file which is responsible for extracting hand landmarks of frames which is used in training.
 
